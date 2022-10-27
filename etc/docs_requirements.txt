@@ -1,6 +1,5 @@
 alabaster==0.7.12
 Babel==2.10.3
-certifi @ file:///croot/certifi_1665076670883/work/certifi
 charset-normalizer==2.1.1
 colorama==0.4.6
 docutils==0.17.1
