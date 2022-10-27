@@ -152,7 +152,7 @@ html_js_files = [
 # further.  For a list of options available for each theme, see the
 # documentation.
 html_theme_options = {
-    "repository_url": "https://github.com/wimmerlab/flexbump",
+    "repository_url": "https://github.com/JMED106/test_pages",
     "collapse_navigation": True,
     "use_repository_button": True,
     "use_issues_button": True,
